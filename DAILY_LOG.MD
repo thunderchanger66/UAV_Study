@@ -30,3 +30,7 @@
 - 同时学习了四元数的相关知识及Eigen库关于四元数的使用
 - 下载了关于Minimum Snap的一些资料
 - 继续学习补充四轴旋翼机的运动建模
+
+# 2025.12.13
+- 还是安装了Ubuntu双系统，还没决定好用不用
+- 开始阅读《Minimum Snap Trajectory Generation and Control for Quadrotors》
