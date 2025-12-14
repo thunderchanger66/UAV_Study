@@ -34,3 +34,7 @@
 # 2025.12.13
 - 还是安装了Ubuntu双系统，还没决定好用不用
 - 开始阅读《Minimum Snap Trajectory Generation and Control for Quadrotors》
+
+# 2025.12.14
+- 还是配置了单独的Ubuntu系统，完成了环境的配置及系统的设置
+- 简单跑了一下历程，Gazebo仿真的流畅程度确实比WSL高很多
