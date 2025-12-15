@@ -31,10 +31,19 @@
 - 下载了关于Minimum Snap的一些资料
 - 继续学习补充四轴旋翼机的运动建模
 
+---
+
 # 2025.12.13
 - 还是安装了Ubuntu双系统，还没决定好用不用
 - 开始阅读《Minimum Snap Trajectory Generation and Control for Quadrotors》
 
+---
+
 # 2025.12.14
 - 还是配置了单独的Ubuntu系统，完成了环境的配置及系统的设置
 - 简单跑了一下历程，Gazebo仿真的流畅程度确实比WSL高很多
+
+---
+
+# 2025.12.15
+- 论文部分关于Differential Flatness部分的详细理解，了解了如何给定四个输出反推电机的四个转速
