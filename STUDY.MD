@@ -373,4 +373,10 @@ $$
 
 - 完成求解，就能获得系数，得到$x$方向的最优轨迹，其余两个方向及yaw同理
 
+第一次测试系数生成轨迹结果：
+<p align="center">
+   <img src="./Picture/xyztest.png"><br>
+   <b>图：xyztest示意图</b>
+</p>
+
 ---
