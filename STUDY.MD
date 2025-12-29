@@ -411,3 +411,12 @@ ADRC一般处理串联积分器形式系统，这里主要推导LADRC的实现�
    <img src="./Picture/微信图片_20251223220427.jpg"><br>
    <b>图：LADRC推导</b>
 </p>
+
+<p align="center">
+   <img src="Picture\屏幕截图 2025-12-24 234052.png"><br>
+   <img src="Picture\屏幕截图 2025-12-24 234711.png"><br>
+   <img src="Picture\屏幕截图 2025-12-25 212711.png"><br>
+   <img src="Picture\屏幕截图 2025-12-25 221421.png"><br>
+   <img src="Picture\屏幕截图 2025-12-29 170159.png"><br>
+   <img src="Picture\屏幕截图 2025-12-29 185753.png"><br>
+</p>
